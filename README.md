@@ -1,4 +1,5 @@
-` const Rita = ({name, age, work}) => {
+``` 
+const Rita = ({name, age, work}) => {
    
    const getWorking = () => {
     return 'working at VAKT';
@@ -14,7 +15,8 @@
       skills={getSkills}
     />
    );
- }`
+ }
+ ```
 
 
 <!--
