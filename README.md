@@ -1,4 +1,21 @@
-### Hi there 👋
+` const Rita = ({name, age, work}) => {
+   
+   const getWorking = () => {
+    return 'working at VAKT';
+   }
+   
+   const getSkills = () => {
+    return [React.js, Typescript, HTML, CSS, Java, Ruby on Rails, Jquery, Python, SQL];
+   }
+   
+   return (
+    <Rita
+      work={getWorking}
+      skills={getSkills}
+    />
+   );
+ }`
+
 
 <!--
 **ritchaves/ritchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
