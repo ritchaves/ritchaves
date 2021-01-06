@@ -1,24 +1,6 @@
-``` 
-const GitUser = ({name = 'Rita Ferreira', age = 28}) => {
-   
-   const getWorking = () => {
-     return 'working at VAKT';
-   }
-   
-   const getSkills = () => {
-     return ['React.js', 'Typescript', 'HTML', 'CSS', 'Java', 'Ruby on Rails', 'Jquery', 'Python', 'SQL'];
-   }
-   
-   return (
-    <Rita
-      name={name}
-      age={age}
-      work={getWorking}
-      skills={getSkills}
-    />
-   );
- }
- ```
+<p align="center">
+  <img src="https://github.com/ritchaves/ritchaves/blob/master/SilkyElegantBluetonguelizard-small.gif">
+</p>
 
 
 <!--
