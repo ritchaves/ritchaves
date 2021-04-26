@@ -1,6 +1,10 @@
+## Hi. :seedling:
+
 <p align="center">
-  <img src="https://github.com/ritchaves/ritchaves/blob/master/SilkyElegantBluetonguelizard-small.gif">
+  <img src="https://github.com/ritaferreira-vakt/ritaferreira-vakt/blob/master/succulent.gif">
 </p>
+<p align="center">Overwatering is a bigger problem for succulents than under watering</p>
+
 
 
 <!--
